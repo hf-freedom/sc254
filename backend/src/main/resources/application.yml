@@ -1,0 +1,10 @@
+server:
+  port: 8007
+
+spring:
+  application:
+    name: points-system
+
+logging:
+  level:
+    com.points: DEBUG
